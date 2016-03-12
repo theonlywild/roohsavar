@@ -230,10 +230,10 @@ function create_config( )
     sudo_users = {196791585,127158151,103788804,131702074,0,0,0,tonumber(our_id)},--Sudo users
     disabled_channels = {94293138},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[   roohsavar v4
+    about_text = [[-  roohsavar v4  -
 An advanced administration bot based on TG-CLI written in Lua
 
-             github
+            Github
 https://github.com/theonlywild/roohsavar
 
 ⚜Admins⚜
